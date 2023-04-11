@@ -1,0 +1,568 @@
+Test Number-1
+Number Of Base Words: 1
+Number Of Response Words: 1
+Base: hi
+Response: hello
+Cosine Similarity Result: 0.0
+BERT Similarity Result: 97.31757044792175
+newMethod1 Similarity Result: 86.03567481040955
+INTEGRATED RESULT: 90.54843306541443
+
+
+
+
+
+Test Number-2
+Number Of Base Words: 5
+Number Of Response Words: 6
+Base: hi kartikeyan is my name
+Response: hello my name is kartikeyan misra
+Cosine Similarity Result: 57.73502691896258
+BERT Similarity Result: 94.63350772857666
+newMethod1 Similarity Result: 80.45660257339478
+INTEGRATED RESULT: 86.12736463546753
+
+
+
+
+
+Test Number-3
+Number Of Base Words: 10
+Number Of Response Words: 7
+Base: Metrology is the technology of measuring the dimensions of components
+Response: Metrology is the scientific study of measurement
+Cosine Similarity Result: 22.360679774997898
+BERT Similarity Result: 81.18019104003906
+newMethod1 Similarity Result: 84.43677425384521
+INTEGRATED RESULT: 83.13414096832275
+
+
+
+
+
+Test Number-4
+Number Of Base Words: 15
+Number Of Response Words: 9
+Base: Medicine a substance, especially a liquid, that you take in order to cure an illness
+Response: Medicine is the science of preventing and treating illness
+Cosine Similarity Result: 31.62277660168379
+BERT Similarity Result: 86.95566654205322
+newMethod1 Similarity Result: 69.01941895484924
+INTEGRATED RESULT: 76.19391798973083
+
+
+
+
+
+Test Number-5
+Number Of Base Words: 71
+Number Of Response Words: 69
+Base: A supply chain consists of all parties involved, directly or indirectly, in fulfilling a customer request. The supply
+chain includes not only the manufacturer and suppliers, but also transporters, warehouses, retailers, and even customers themselves. Within each organization, such as a manufacturer, the supply chain includes all functions
+involved in receiving and filling a customer request. These functions include, but are not limited to, new product
+development, marketing, operations, distribution, finance, and customer service.
+Response: Supply Chain Management can be defined as the management of flow of products and services, which begins from the origin of products and ends at the product’s consumption. It also comprises movement and storage of raw materials that are involved in work in progress, inventory and fully furnished goods. The main objective of supply chain management is to monitor and relate production, distribution, and shiment of products and services.
+Cosine Similarity Result: 26.354213716778887
+BERT Similarity Result: 74.10774230957031
+newMethod1 Similarity Result: 74.09352660179138
+INTEGRATED RESULT: 74.09921288490295
+
+
+
+
+
+Test Number-6
+Number Of Base Words: 21
+Number Of Response Words: 20
+Base: a unit step signal is a  standard signal that is zero for negative time and one for positive time 
+Response: a step signal is a standard signal which exists only for positive time and it is zero for negative time
+Cosine Similarity Result: 89.70852271450605
+BERT Similarity Result: 94.12450790405273
+newMethod1 Similarity Result: 85.29243469238281
+INTEGRATED RESULT: 88.82526397705078
+
+
+
+
+
+Test Number-7
+Number Of Base Words: 46
+Number Of Response Words: 36
+Base: Electromagnetic waves are also known as EM waves. Electromagnetic radiations are composed of electromagnetic waves that are produced when an electric field comes in contact with the magnetic field. It can also be said that electromagnetic waves are the composition of oscillating electric and magnetic fields.
+Response: Electromagnetic waves or EM waves are waves that are created as a result of vibrations between an electric field and a magnetic field. In other words, EM waves are composed of oscillating magnetic and electric fields.
+Cosine Similarity Result: 76.16329468731719
+BERT Similarity Result: 96.9059705734253
+newMethod1 Similarity Result: 90.40184020996094
+INTEGRATED RESULT: 93.00349235534668
+
+
+
+
+
+Test Number-8
+Number Of Base Words: 21
+Number Of Response Words: 24
+Base: It states that the force applied on a body is proportional to the rate of change of momentum of the body.
+
+Response: the time rate of change of the momentum of a body is equal in both magnitude and direction to the force imposed on it.
+Cosine Similarity Result: 57.207755354735546
+BERT Similarity Result: 72.16781377792358
+newMethod1 Similarity Result: 75.52106976509094
+INTEGRATED RESULT: 74.179767370224
+
+
+
+
+
+Test Number-9
+Number Of Base Words: 27
+Number Of Response Words: 25
+Base: The Doppler effect or Doppler shift is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.
+Response: The Doppler effect describes the changes in the frequency of any sound or light wave produced by a moving source with respect to an observer.
+Cosine Similarity Result: 60.540551459668116
+BERT Similarity Result: 92.17953085899353
+newMethod1 Similarity Result: 92.52030849456787
+INTEGRATED RESULT: 92.38399744033813
+
+
+
+
+
+Test Number-10
+Number Of Base Words: 19
+Number Of Response Words: 34
+Base: quantum mechanics is the science dealing with the behaviour of matter and light on the atomic and subatomic scale
+Response: the branch of mechanics that deals with the mathematical description of the motion and interaction of subatomic particles, incorporating the concepts of quantization of energy, wave–particle duality, the uncertainty principle, and the correspondence principle
+Cosine Similarity Result: 13.48399724926484
+BERT Similarity Result: 82.34111070632935
+newMethod1 Similarity Result: 69.31132078170776
+INTEGRATED RESULT: 74.5232367515564
+
+
+
+
+
+Test Number-11
+Number Of Base Words: 24
+Number Of Response Words: 12
+Base: If one coulomb of charge flows through a conductor in one second, the current flowing through the conductor is known as one ampere 
+Response: one ampere is defined as one coloumb of charge per second. 
+Cosine Similarity Result: 62.10590034081188
+BERT Similarity Result: 77.11551785469055
+newMethod1 Similarity Result: 83.34715366363525
+INTEGRATED RESULT: 80.85449934005737
+
+
+
+
+
+Test Number-12
+Number Of Base Words: 27
+Number Of Response Words: 26
+Base: When a body of mass one kilogram is moving with a uniform acceleration of one meter per second squarethe force possessed by it is called one newton
+Response: one newton is defined as the force necessary to provide a mass of one kilogram with an acceleration of one metre per second per second square
+Cosine Similarity Result: 72.23151185146153
+BERT Similarity Result: 95.70491313934326
+newMethod1 Similarity Result: 88.30232620239258
+INTEGRATED RESULT: 91.26336097717285
+
+
+
+
+
+Test Number-13
+Number Of Base Words: 31
+Number Of Response Words: 40
+Base: cgs system, system of units of measurement based on the metric system and having the centimeter of length, the gram of mass, and the second of time as its fundamental units
+Response: The centimetre–gram–second system of units (abbreviated CGS or cgs) is a variant of the metric system based on the centimetre as the unit of length, the gram as the unit of mass, and the second as the unit of time.
+Cosine Similarity Result: 63.75982524533232
+BERT Similarity Result: 92.24071502685547
+newMethod1 Similarity Result: 92.46781468391418
+INTEGRATED RESULT: 92.3769748210907
+
+
+
+
+
+Test Number-14
+Number Of Base Words: 29
+Number Of Response Words: 29
+Base: The force of attraction between any two bodies is directly proportional to the product of their masses and is inversely proportional to the square of the distance between them.
+Response: Earth exerts a force of attraction on each object.Its magnitude is directly proportional to mass of the object and inversely proportional to the square of the distance between them
+Cosine Similarity Result: 66.8153104781061
+BERT Similarity Result: 82.50666856765747
+newMethod1 Similarity Result: 70.69511413574219
+INTEGRATED RESULT: 75.4197359085083
+
+
+
+
+
+Test Number-15
+Number Of Base Words: 20
+Number Of Response Words: 24
+Base: the property of subatomic particles that causes it to experience a force when placed in an electric and magnetic field.
+Response: Electric charge is the basic physical property of matter that causes it to experience a force when kept in an electric or magnetic field
+Cosine Similarity Result: 65.31972647421807
+BERT Similarity Result: 90.66746234893799
+newMethod1 Similarity Result: 70.64658403396606
+INTEGRATED RESULT: 78.65493535995483
+
+
+
+
+
+Test Number-16
+Number Of Base Words: 21
+Number Of Response Words: 23
+Base: a region around a charged particle or object within which a force would be exerted on other charged particles or objects
+Response: An electric field is a region of space around an electrically charged particle or object in which an electric charge would feel force.
+Cosine Similarity Result: 53.45224838248488
+BERT Similarity Result: 83.85781049728394
+newMethod1 Similarity Result: 70.64185738563538
+INTEGRATED RESULT: 75.9282386302948
+
+
+
+
+
+Test Number-17
+Number Of Base Words: 15
+Number Of Response Words: 21
+Base: Magnetic field is a region around a moving electric charge where some forces are experienced
+Response: Magnetic Field is the region around a magnetic material or a moving electric charge within which the force of magnetism acts.
+Cosine Similarity Result: 68.85303726590963
+BERT Similarity Result: 92.99231171607971
+newMethod1 Similarity Result: 81.30356073379517
+INTEGRATED RESULT: 85.97906112670898
+
+
+
+
+
+Test Number-18
+Number Of Base Words: 32
+Number Of Response Words: 70
+Base: Electric motors are devices that convert electrical energy into mechanical energy, usually in the form of rotational motion. In simple terms, they are devices that use electric power to generate motive power.
+Response: An electric motor is an electrical machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of torque applied on the motor's shaft. An electric generator is mechanically identical to an electric motor, but operates with a reversed flow of power, converting mechanical energy into electrical energy.
+Cosine Similarity Result: 58.722021951470346
+BERT Similarity Result: 90.26597738265991
+newMethod1 Similarity Result: 88.62645030021667
+INTEGRATED RESULT: 89.28226113319397
+
+
+
+
+
+Test Number-19
+Number Of Base Words: 35
+Number Of Response Words: 33
+Base: Regression is defined as a statistical method that helps us to analyze and understand the relationship between two or more variables. In regression, we normally have one dependent variable and one or more independent variables
+Response: Regression is a statistical method used in finance, investing, and other disciplines that attempts to determine the strength and character of the relationship between one dependent variable and a series of independent variables.
+Cosine Similarity Result: 56.56854249492381
+BERT Similarity Result: 74.55395460128784
+newMethod1 Similarity Result: 90.60711860656738
+INTEGRATED RESULT: 84.18585300445557
+
+
+
+
+
+Test Number-20
+Number Of Base Words: 60
+Number Of Response Words: 50
+Base: Clustering is the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them.
+Response: Cluster analysis is the grouping of objects such that objects in the same cluster are more similar to each other than they are to objects in another cluster. The classification into clusters is done using criteria such as smallest distances, density of data points, graphs, or various statistical distributions. 
+Cosine Similarity Result: 26.967994498529684
+BERT Similarity Result: 85.21186113357544
+newMethod1 Similarity Result: 83.57874155044556
+INTEGRATED RESULT: 84.23198938369751
+
+
+
+
+
+Test Number-21
+Number Of Base Words: 1
+Number Of Response Words: 1
+Base: bye
+Response: hello
+Cosine Similarity Result: 0.0
+BERT Similarity Result: 81.19122982025146
+newMethod1 Similarity Result: 33.38117003440857
+INTEGRATED RESULT: 52.50519394874573
+
+
+
+
+
+Test Number-22
+Number Of Base Words: 19
+Number Of Response Words: 26
+Base: a system where transactions in bitcoin or another cryptocurrency are recorded across many computers connected by a peer-to-peer network.
+Response: a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network
+Cosine Similarity Result: 69.43650748294137
+BERT Similarity Result: 98.25457334518433
+newMethod1 Similarity Result: 95.16255855560303
+INTEGRATED RESULT: 96.39936447143555
+
+
+
+
+
+Test Number-23
+Number Of Base Words: 114
+Number Of Response Words: 53
+Base: Agriculture or farming is the practice of cultivating plants and livestock. Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities. The history of agriculture began thousands of years ago. After gathering wild grains beginning at least 105,000 years ago, nascent farmers began to plant them around 11,500 years ago. Pigs, sheep, and cattle were domesticated over 10,000 years ago. Plants were independently cultivated in at least 11 regions of the world. Industrial agriculture based on large-scale monoculture in the twentieth century came to dominate agricultural output, though about 2 billion people still depended on subsistence agriculture.
+Response: The activity of raising cattle and plants is known as agriculture. The invention of agriculture, which allowed people to raise domesticated animals to provide surpluses of food that allowed people to live in cities, was crucial in the growth of sedentary human civilization. Agriculture has a long history dating back thousands of years.
+Cosine Similarity Result: 49.320183037662325
+BERT Similarity Result: 87.74738907814026
+newMethod1 Similarity Result: 82.89372324943542
+INTEGRATED RESULT: 84.83518958091736
+
+
+
+
+
+Test Number-24
+Number Of Base Words: 24
+Number Of Response Words: 67
+Base: Submarine is defined as a boat, particularly a warship, designed to stay and travel under the surface of the water for a long time.
+Response: A submarine is a watercraft capable of independent operation underwater. It differs from a submersible, which has more limited underwater capability. The term is also sometimes used historically or colloquially to refer to remotely operated vehicles and robots, as well as medium-sized or smaller vessels, such as the midget submarine and the wet sub. Submarines are referred to as "boats" rather than "ships" irrespective of their size.
+Cosine Similarity Result: 9.016696346674324
+BERT Similarity Result: 58.15521478652954
+newMethod1 Similarity Result: 91.53745174407959
+INTEGRATED RESULT: 71.50810956954956
+
+
+
+
+
+Test Number-25
+Number Of Base Words: 126
+Number Of Response Words: 90
+Base: Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another. Artificial neural networks (ANNs) are comprised of a node layers, containing an input layer, one or more hidden layers, and an output layer. Each node, or artificial neuron, connects to another and has an associated weight and threshold. If the output of any individual node is above the specified threshold value, that node is activated, sending data to the next layer of the network. Otherwise, no data is passed along to the next layer of the network.
+Response: A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. The concept of neural networks, which has its roots in artificial intelligence, is swiftly gaining popularity in the development of trading systems.
+Cosine Similarity Result: 44.96400807047812
+BERT Similarity Result: 83.74052047729492
+newMethod1 Similarity Result: 80.5706799030304
+INTEGRATED RESULT: 81.8386161327362
+
+
+
+
+
+Test Number-26
+Number Of Base Words: 33
+Number Of Response Words: 119
+Base: Deep learning also known as deep structured learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
+Response: Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain-albeit far from matching its ability—allowing it to “learn” from large amounts of data. While a neural network with a single layer can still make approximate predictions, additional hidden layers can help to optimize and refine for accuracy. Deep learning drives many artificial intelligence (AI) applications and services that improve automation, performing analytical and physical tasks without human intervention. Deep learning technology lies behind everyday products and services (such as digital assistants, voice-enabled TV remotes, and credit card fraud detection) as well as emerging technologies (such as self-driving cars).
+Cosine Similarity Result: 45.07489358552089
+BERT Similarity Result: 81.89502358436584
+newMethod1 Similarity Result: 68.46010684967041
+INTEGRATED RESULT: 73.83407354354858
+
+
+
+
+
+Test Number-27
+Number Of Base Words: 48
+Number Of Response Words: 63
+Base: Cloud computing is an abstraction of compute, storage, and network infrastructure assembled as a platform on which applications and systems can be deployed quickly and scaled on the fly. Crucial to cloud computing is self-service: Users can simply fill in a web form and get up and running.
+Response: Cloud Computing is a network of remote servers hosted on the internet for storing and retrieving data. The cloud provides a number of IT services such as servers, databases, software, virtual storage, and networking, among others. In layman’s terms, Cloud Computing is defined as a virtual platform that allows you to store and access your data over the internet without any limitations. 
+Cosine Similarity Result: 32.914029430219166
+BERT Similarity Result: 85.28966307640076
+newMethod1 Similarity Result: 89.13345336914062
+INTEGRATED RESULT: 87.59593725204468
+
+
+
+
+
+Test Number-28
+Number Of Base Words: 17
+Number Of Response Words: 24
+Base: Metrology, the science of measurement. From three fundamental quantities, length, mass, and time, all other mechanical quantities
+Response: Metrology is the science of measurement, embracing both experimental and theoretical determinations at any level of uncertainty in any field of science and technology
+Cosine Similarity Result: 29.649972666444054
+BERT Similarity Result: 68.85824203491211
+newMethod1 Similarity Result: 86.44294738769531
+INTEGRATED RESULT: 79.40906524658203
+
+
+
+
+
+Test Number-29
+Number Of Base Words: 71
+Number Of Response Words: 47
+Base: Crystallization is the process by which a solid forms, where the atoms or molecules are highly organized into a structure known as a crystal. Some of the ways by which crystals form are precipitating from a solution, freezing, or more rarely deposition directly from a gas. Attributes of the resulting crystal depend largely on factors such as temperature, air pressure, and in the case of liquid crystals, time of fluid evaporation.
+Response: Crystallization can be defined as the process through which the atoms/molecules of a substance arrange themselves in a well-defined three-dimensional lattice and consequently, minimize the overall energy of the system. When a substance is subjected to crystallization, its atoms or molecules bind together through well-defined angles. 
+Cosine Similarity Result: 14.680505487867585
+BERT Similarity Result: 69.68053579330444
+newMethod1 Similarity Result: 87.84210085868835
+INTEGRATED RESULT: 80.57747483253479
+
+
+
+
+
+Test Number-30
+Number Of Base Words: 19
+Number Of Response Words: 29
+Base: Fermentation is an anaerobic process in which energy can be released from glucose even if oxygen is not available
+Response: Fermentation refers to the metabolic process by which organic molecules (normally glucose) are converted into acids, gases, or alcohol in the absence of oxygen or any electron transport chain.
+
+Cosine Similarity Result: 32.338083338177725
+BERT Similarity Result: 78.16157937049866
+newMethod1 Similarity Result: 81.61547183990479
+INTEGRATED RESULT: 80.23391485214233
+
+
+
+
+
+Test Number-31
+Number Of Base Words: 172
+Number Of Response Words: 37
+Base: The process by which green plants, algae, diatoms, and certain forms of bacteria make carbohydrates from carbon dioxide and water in the presence of chlorophyll, using energy captured from sunlight by chlorophyll, and releasing excess oxygen as a byproduct. In plants and algae, photosynthesis takes place in organelles called chloroplasts . Photosynthesis is usually viewed as a two-step process. First, in the light reactions , the energy-providing molecule ATP is synthesized using light energy absorbed by chlorophyll and accessory pigments such as carotenoids and phycobilins, and water is broken apart into oxygen and a hydrogen ion, with the electron of the hydrogen transferred to another energy molecule, NADPH. The ATP and NADPH molecules power the second part of photosynthesis by the transfer of electrons. In these light-independent or dark reactions , carbon is broken away from carbon dioxide and combined with hydrogen via the Calvin cycle to create carbohydrates. Some of the carbohydrates, the sugars, can then be transported around the organism for immediate use. Others can be stored for later use.
+Response: The process in green plants and certain other organisms by which carbohydrates are synthesized from carbon dioxide and a source of hydrogen, using light as an energy source. Most forms of photosynthesis release oxygen as a byproduct.
+
+Cosine Similarity Result: 53.11249042474338
+BERT Similarity Result: 83.59243869781494
+newMethod1 Similarity Result: 78.69702577590942
+INTEGRATED RESULT: 80.65519094467163
+
+
+
+
+
+Test Number-32
+Number Of Base Words: 126
+Number Of Response Words: 36
+Base: earthquake is any sudden shaking of the ground caused by the passage of seismic waves through Earth's rocks. Seismic waves are produced when some form of energy stored in Earth’s crust is suddenly released, usually when masses of rock straining against one another suddenly fracture and slip. Earthquakes occur most often along geologic faults, narrow zones where rock masses move in relation to one another. The major fault lines of the world are located at the fringes of the huge tectonic plates that make up Earth’s crust.Earth’s major earthquakes occur mainly in belts coinciding with the margins of tectonic plates. This has long been apparent from early catalogs of felt earthquakes and is even more readily discernible in modern seismicity maps, which show instrumentally determined epicentres
+Response: A sudden movement of the Earth's lithosphere. Earthquakes are caused by the release of built-up stress within rocks along geologic faults or by the movement of magma in volcanic areas. They are usually followed by aftershocks.
+
+Cosine Similarity Result: 21.869176243407466
+BERT Similarity Result: 92.51503944396973
+newMethod1 Similarity Result: 84.25577878952026
+INTEGRATED RESULT: 87.55948305130005
+
+
+
+
+
+Test Number-33
+Number Of Base Words: 78
+Number Of Response Words: 52
+Base: Accounting is the process of recording financial transactions pertaining to a business. The accounting process includes summarizing, analyzing, and reporting these transactions to oversight agencies, regulators, and tax collection entities. The financial statements used in accounting are a concise summary of financial transactions over an accounting period, summarizing a company's operations, financial position, and cash flows. Regardless of the size of a business, accounting is a necessary function for decision making, cost planning, and measurement of economic performance.
+Response: Accounting is the processor keeping the accounting books of the financial transactions of the company. The accountants summarize the transactions in the form of journal entries. These entries are used in bookkeeping. The books of accounts are prepared by the accountants as per the regulation of the auditors and various regulating bodies.
+Cosine Similarity Result: 35.60856775773678
+BERT Similarity Result: 81.2197744846344
+newMethod1 Similarity Result: 85.43781042098999
+INTEGRATED RESULT: 83.75059604644775
+
+
+
+
+
+Test Number-34
+Number Of Base Words: 140
+Number Of Response Words: 113
+Base: Religion is a collection of cultural systems, belief systems, and worldviews that relate humanity to spirituality and, sometimes, to moral values. Many religions have narratives, symbols, traditions and sacred histories that are intended to give meaning to life or to explain the origin of life or the universe. They tend to derive morality, ethics, religious laws or a preferred lifestyle from their ideas about the cosmos and human nature. Many religions have organised behaviours, clergy, a definition of what constitutes adherence or membership, congregations of laity, regular meetings or services for the purposes of veneration of a deity or for prayer, holy places (either natural or architectural), and/or scriptures. The practice of a religion may also include sermons, commemoration of the activities of a god or gods, sacrifices, festivals, feasts, trance, initiations, funerary services, or other aspects of human culture
+Response: religion describes "the relationship of human beings to what they regard as holy, sacred, spiritual or divine". It is usually accompanied by a set of organised practices which foster a community of people who share that faith. As discussed above, belief is a broader term and it also includes "commitments which deny a dimension of existence beyond this world".
+Religions and other belief systems in our environment have an influence on our identity, regardless of whether we consider ourselves religious or spiritual or not. At the same time, other parts of our identity, our history, our approach to other religions and groups considered "different" will influence how we interpret that religion or belief system.
+Cosine Similarity Result: 23.526155774686185
+BERT Similarity Result: 84.9277138710022
+newMethod1 Similarity Result: 81.93975687026978
+INTEGRATED RESULT: 83.13493967056274
+
+
+
+
+
+Test Number-35
+Number Of Base Words: 87
+Number Of Response Words: 100
+Base: Mathematics is the science and study of quality, structure, space, and change. Mathematicians seek out patterns, formulate new conjectures, and establish truth by rigorous deduction from appropriately chosen axioms and definitions. Today, mathematics is used throughout the world as an essential tool in many fields, including natural science, engineering, medicine, and the social sciences. Applied mathematics, the branch of mathematics concerned with application of mathematical knowledge to other fields, inspires and makes use of new mathematical discoveries and sometimes leads to the development of entirely new disciplines.
+Response: Mathematics is the science that deals with the logic of shape, quantity and arrangement. Math is all around us, in everything we do. It is the building block for everything in our daily lives, including mobile devices, computers, software, architecture (ancient and modern), art, money, engineering and even sports.Since the beginning of recorded history, mathematical discovery has been at the forefront of every civilized society, and math has been used by even the most primitive and earliest cultures. The need for math arose because of the increasingly complex demands from societies around the world, which required more advanced mathematical solutions.
+Cosine Similarity Result: 18.348135348477772
+BERT Similarity Result: 84.11881923675537
+newMethod1 Similarity Result: 86.43292188644409
+INTEGRATED RESULT: 85.5072808265686
+
+
+
+
+
+Test Number-36
+Number Of Base Words: 129
+Number Of Response Words: 102
+Base: Semiconductors possess specific electrical properties. A substance that conducts electricity is called a conductor, and a substance that does not conduct electricity is called an insulator. Semiconductors are substances with properties somewhere between them. ICs(integrated circuits) and electronic discrete components such as diodes and transistors are made of semiconductors. Common elemental semiconductors are silicon and germanium. Silicon is well-known of these. Silicon forms most of ICs. Common semiconductor compounds are such as gallium arsenide or indium antimonide.Semiconductors became essential for many electronic appliances as well as for social infrastructure that support our everyday life.Semiconductors play an important role in equipment control in a variety of fields, such as operating air conditioners at a comfortable room temperature, improving automobile safety, laser treatment in cutting-edge medical care and many more. 
+Response: A semiconductor is a material product usually comprised of silicon, which conducts electricity more than an insulator, such as glass, but less than a pure conductor, such as copper or aluminum. Their conductivity and other properties can be altered with the introduction of impurities, called doping, to meet the specific needs of the electronic component in which it resides. Semiconductor devices can display a range of useful properties such as showing variable resistance, passing current more easily in one direction than the other, and reacting to light and heat. Their actual function includes the amplification of signals, switching, and energy conversion. 
+Cosine Similarity Result: 23.99494896342928
+BERT Similarity Result: 85.31871438026428
+newMethod1 Similarity Result: 82.50405192375183
+INTEGRATED RESULT: 83.62991690635681
+
+
+
+
+
+Test Number-37
+Number Of Base Words: 123
+Number Of Response Words: 111
+Base: Sustainable development is development that meets the needs of the present, without compromising the ability of future generations to meet their own needs. "Sustainable development is development that meets the needs of the present, without compromising the ability of future generations to meet their own needs. All too often, development is driven by one particular need, without fully considering the wider or future impacts. We are already seeing the damage this kind of approach can cause, from large-scale financial crises caused by irresponsible banking, to changes in global climate resulting from our dependence on fossil fuel-based energy sources.The longer we pursue unsustainable development, the more frequent and severe its consequences are likely to become, which is why we need to take action now.
+Response: Sustainable development can be defined as an approach to the economic development of a country without compromising with the quality of the environment for future generations. In the name of economic development, the price of environmental damage is paid in the form of land degradation, soil erosion, air and water pollution, deforestation, etc. This damage may surpass the advantages of having more quality output of goods and services. Sustainable development provides an approach to making better decisions on the issues that affect all of our lives. By incorporating health plans into the planning of new communities, for instance, we can ensure that residents have easy access to healthcare and leisure facilities.
+Cosine Similarity Result: 38.59224924939799
+BERT Similarity Result: 75.08150339126587
+newMethod1 Similarity Result: 81.90144300460815
+INTEGRATED RESULT: 79.17346715927124
+
+
+
+
+
+Test Number-38
+Number Of Base Words: 142
+Number Of Response Words: 118
+Base: Astronomy is the science that studies the laws of the stars is a natural science that studies celestial objects and phenomena. It uses mathematics, physics, and chemistry in order to explain their origin and evolution. Objects of interest include planets, moons, stars, nebulae, galaxies, and comets. Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation. More generally, astronomy studies everything that originates beyond Earth's atmosphere. Cosmology is a branch of astronomy that studies the universe as a whole. Astronomy is one of the oldest natural sciences. The early civilizations in recorded history made methodical observations of the night sky. These include the Babylonians, Greeks, Indians, Egyptians, Chinese, Maya, and many ancient indigenous peoples of the Americas. In the past, astronomy included disciplines as diverse as astrometry, celestial navigation, observational astronomy, and the making of calendars.
+Response: Astronomy is the study of everything in the universe that’s beyond our own planet’s atmosphere. The planets in our own solar system, our own star the sun, and the bright stars can all be seen with the naked eye. However, astronomy can go much deeper, taking advantage of telescopes and other scientific instruments to study other stars and their planets in our galaxy, as well as distant galaxies beyond our own. It can gather clues about the nature of the physical, chemical and biological universe itself. Astronomy is one of the oldest sciences. Early cultures such as the Babylonians performed methodical observations of the night sky, and astronomical artifacts such as Stonehenge have been found from ancient times.
+Cosine Similarity Result: 37.52948847555344
+BERT Similarity Result: 91.56380295753479
+newMethod1 Similarity Result: 91.09765887260437
+INTEGRATED RESULT: 91.28411650657654
+
+
+
+
+
+Test Number-39
+Number Of Base Words: 126
+Number Of Response Words: 94
+Base: Optics is the branch of physics that studies the behaviour and properties of light, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behaviour of visible, ultraviolet, and infrared light. Because light is an electromagnetic wave, other forms of electromagnetic radiation such as X-rays, microwaves, and radio waves exhibit similar properties. Most optical phenomena can be accounted for by using the classical electromagnetic description of light. Complete electromagnetic descriptions of light are, however, often difficult to apply in practice. Practical optics is usually done using simplified models. The most common of these, geometric optics, treats light as a collection of rays that travel in straight lines and bend when they pass through or reflect from surfaces.
+Response: optics is the science concerned with the genesis and propagation of light, the changes that it undergoes and produces, and other phenomena closely associated with it. There are two major branches of optics, physical and geometrical. Physical optics deals primarily with the nature and properties of light itself. Geometrical optics has to do with the principles that govern the image-forming properties of lenses, mirrors, and other devices that make use of light. It also includes optical data processing, which involves the manipulation of the information content of an image formed by coherent optical systems.
+Cosine Similarity Result: 41.194292043554974
+BERT Similarity Result: 80.29590249061584
+newMethod1 Similarity Result: 85.17249822616577
+INTEGRATED RESULT: 83.2218599319458
+
+
+
+
+
+Test Number-40
+Number Of Base Words: 122
+Number Of Response Words: 105
+Base: A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just database. Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data. Databases have evolved dramatically since their inception in the early 1960s.
+Response: a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. The design of databases spans formal techniques and practical considerations, including data modeling, efficient data representation and storage, query languages, security and privacy of sensitive data, and distributed computing issues, including supporting concurrent access and fault tolerance.A database management system (DBMS) is the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database.
+Cosine Similarity Result: 61.19528587806931
+BERT Similarity Result: 90.1288390159607
+newMethod1 Similarity Result: 85.72965860366821
+INTEGRATED RESULT: 87.4893307685852
+
+
+
+
+

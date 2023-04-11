@@ -1,0 +1,4 @@
+A supply chain consists of all parties involved, directly or indirectly, in fulfilling a customer request. The supply
+chain includes not only the manufacturer and suppliers, but also transporters, warehouses, retailers, and even customers themselves. Within each organization, such as a manufacturer, the supply chain includes all functions
+involved in receiving and filling a customer request. These functions include, but are not limited to, new product
+development, marketing, operations, distribution, finance, and customer service.

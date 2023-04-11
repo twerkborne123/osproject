@@ -1,0 +1,1 @@
+a step signal is a standard signal which exists only for positive time and it is zero for negative time

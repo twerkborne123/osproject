@@ -1,0 +1,1 @@
+Regression is defined as a statistical method that helps us to analyze and understand the relationship between two or more variables. In regression, we normally have one dependent variable and one or more independent variables

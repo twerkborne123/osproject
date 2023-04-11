@@ -1,0 +1,1 @@
+Cloud computing is an abstraction of compute, storage, and network infrastructure assembled as a platform on which applications and systems can be deployed quickly and scaled on the fly. Crucial to cloud computing is self-service: Users can simply fill in a web form and get up and running.

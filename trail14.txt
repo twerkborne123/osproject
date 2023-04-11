@@ -1,0 +1,1 @@
+Earth exerts a force of attraction on each object.Its magnitude is directly proportional to mass of the object and inversely proportional to the square of the distance between them

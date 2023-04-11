@@ -1,0 +1,1 @@
+a system where transactions in bitcoin or another cryptocurrency are recorded across many computers connected by a peer-to-peer network.

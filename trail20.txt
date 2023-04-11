@@ -1,0 +1,1 @@
+Cluster analysis is the grouping of objects such that objects in the same cluster are more similar to each other than they are to objects in another cluster. 
